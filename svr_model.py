@@ -12,3 +12,4 @@ def home_page():
 
 if __name__ == '__main__':
     app.run(host='192.168.1.93', debug=False)
+app.run()
