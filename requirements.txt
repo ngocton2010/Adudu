@@ -1,2 +1,11 @@
 Flask>=1.0,<=1.1.2
 flask-sqlalchemy
+tensorflow
+keras
+opencv-python
+pillow
+flask
+flask-cors
+SciPy
+tensorflowjs
+PyInquirer==1.0.3
